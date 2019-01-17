@@ -15,3 +15,5 @@ number 1
 
 create another branches
 number 2
+
+merge to master
